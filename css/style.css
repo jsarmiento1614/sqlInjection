@@ -1,0 +1,20 @@
+body {
+    background: #eee;
+}
+.magia {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+form.form-signin {
+    background: rgb(243, 243, 243);
+    border: solid 1px rgb(216, 214, 214);
+    border-radius: 10px;
+    padding: 8%
+}
+
+form input{
+    background:  rgb(243, 243, 243) !important;
+}
